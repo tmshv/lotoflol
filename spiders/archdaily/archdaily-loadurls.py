@@ -21,7 +21,7 @@ def get_blog_page_posts(index):
 
 urls = []
 # 596
-for x in xrange(1, 6):
+for x in xrange(1, 596):
 	print 'analyze', x
 	p = get_blog_page_posts(x)
 	urls = urls + p
