@@ -9,7 +9,7 @@ urlpatterns = patterns('',
     # Examples:
     # url(r'^$', 'inspire.views.home', name='home'),
     # url(r'^inspire/', include('inspire.foo.urls')),
-    (r'^inspire/first', first_hello),
+    (r'^lol/first', first_hello),
 
     # Uncomment the admin/doc line below to enable admin documentation:
     # url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
