@@ -3,13 +3,8 @@ import json
 import lxml.html
 from lxml import etree
 
-def get_post_images(page):
-	html = lxml.html.fromstring(page)
-	imgs = html.xpath('.//*[@class="content"]//p/a/img/@src')
-	return imgs
-
-ufile = open('imgs.txt', 'r')
-imgs = json.loads(ufile.read())
+ufile = open('urls.txt', 'r')
+urls = json.loads(ufile.read())
 ufile.close()
 
-print len(imgs)
+print len(urls)
