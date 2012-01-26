@@ -10,10 +10,10 @@ def load_res(url):
 def get_post_images(page_url):
 	page = load_res(page_url)
 	html = lxml.html.fromstring(page)
-	img_smalls = html.xpath('.//div[@class="post_content"]/div/a/img/@src')
-	img_pages = html.xpath('.//div[@class="post_content"]/div/a/@href')
+	img_smalls = html.xpath('.//div[@class="post_content"]//div[substring-before(@id, "_")="attachment"]/a/img/@src')
+	img_pages = html.xpath('.//div[@class="post_content"]//div[substring-before(@id, "_")="attachment"]/a/@href')
 	img_bigs = get_big_image_url_list(img_pages)
-
+	
 	images= []
 	for x in xrange(len(img_pages)):
 		images.append({'small': img_smalls[x], 'big': img_bigs[x], 'page': page_url})
@@ -53,3 +53,5 @@ print imgs
 imgfile = open('imgs.txt', 'w')
 imgfile.write(json.dumps(imgs))
 imgfile.close()
+
+# print get_post_images('http://www.archdaily.com/197061/architectural-patents-on-what-grounds/')
