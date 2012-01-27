@@ -10,6 +10,7 @@ urlpatterns = patterns('',
     # url(r'^$', 'inspire.views.home', name='home'),
     # url(r'^inspire/', include('inspire.foo.urls')),
     (r'^lol/first', first_hello),
+    (r'^lotoflol/feed/([\d\w-]+)', get_feed),
 
     # Uncomment the admin/doc line below to enable admin documentation:
     # url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
