@@ -1,0 +1,201 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>BlenderNation</title>
+	
+	<link>http://www.blendernation.com</link>
+	<description>Fresh Blender News, Every Day</description>
+	<lastBuildDate>Thu, 26 Jan 2012 13:27:51 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.3.1</generator>
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/Blendernation"/><feedburner:info uri="blendernation"/><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/"/><feedburner:emailServiceId>Blendernation</feedburner:emailServiceId><feedburner:feedburnerHostname>http://feedburner.google.com</feedburner:feedburnerHostname><item>
+		<title>Tutorial: How to create realistic rain</title>
+		<link>http://feedproxy.google.com/~r/Blendernation/~3/Kr7lnqcgcYQ/</link>
+		<comments>http://www.blendernation.com/2012/01/26/tutorial-how-to-create-realistic-rain/#comments</comments>
+		<pubDate>Thu, 26 Jan 2012 13:27:15 +0000</pubDate>
+		<dc:creator>cekuhnen</dc:creator>
+				<category>Videotutorials</category>
+
+		<guid isPermaLink="false">http://www.blendernation.com/?p=25852</guid>
+		
+		<wfw:commentRss>http://www.blendernation.com/2012/01/26/tutorial-how-to-create-realistic-rain/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<description>&lt;div&gt;&lt;p&gt;&lt;iframe width="583" height="328" src="http://www.youtube.com/embed/34wCtZDYAUI?fs=1&amp;amp;feature=oembed" frameborder="0" allowfullscreen=""/&gt;&lt;/p&gt;
+&lt;p&gt;Andrew released a new &lt;a href="http://www.blenderguru.com/videos/how-to-create-realistic-rain"&gt;tutorial&lt;/a&gt; demonstrating how to create realistic&amp;#194;&amp;#160;rain combining particle system,&amp;#194;&amp;#160;the new Dynamic Paint system, and textures in Blender.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-25852"/&gt;&lt;/p&gt;
+&lt;p&gt;Andrew writes:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Dynamic Paint is here! In case you missed the hype, dynamic paint is a new feature in blender that allows objects to paint each other. This opens the door for things like animated snow footprints, smoke interaction, fluid wet maps and, you guessed it&amp;#226;&amp;#128;&amp;#166; rain!&lt;/p&gt;
+&lt;p&gt;In this tutorial I will be showing you how to create realistic rain that interacts with it&amp;#226;&amp;#128;&amp;#153;s environment.&lt;/p&gt;
+&lt;p&gt;If a rain sounds like a familar topic to you, that may be because I created&amp;#194;&amp;#160;&lt;a title="Bring the Rain!" href="http://www.blenderguru.com/videos/bring-the-rain"&gt;a rain tutorial&lt;/a&gt;&amp;#194;&amp;#160;just 18 months ago. But I&amp;#226;&amp;#128;&amp;#153;m doing it again because the old tutorial didn&amp;#226;&amp;#128;&amp;#153;t include any interation with the environment. So I&amp;#226;&amp;#128;&amp;#153;m hoping you don&amp;#226;&amp;#128;&amp;#153;t mind a repeat&amp;#194;&amp;#160;&lt;img src="http://www.blenderguru.com/wp-includes/images/smilies/icon_razz.gif" alt=":P"/&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Link&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.blenderguru.com/videos/how-to-create-realistic-rain"&gt;How to Create Realistic Rain&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><feedburner:origLink>http://www.blendernation.com/2012/01/26/tutorial-how-to-create-realistic-rain/</feedburner:origLink></item>
+		<item>
+		<title>3DS Timelapse</title>
+		<link>http://feedproxy.google.com/~r/Blendernation/~3/Lky0ebvG2JI/</link>
+		<comments>http://www.blendernation.com/2012/01/25/3ds-timelapse/#comments</comments>
+		<pubDate>Wed, 25 Jan 2012 10:13:58 +0000</pubDate>
+		<dc:creator>Bart</dc:creator>
+				<category>Video</category>
+
+		<guid isPermaLink="false">http://www.blendernation.com/?p=25879</guid>
+		
+		<wfw:commentRss>http://www.blendernation.com/2012/01/25/3ds-timelapse/feed/</wfw:commentRss>
+		<slash:comments>13</slash:comments>
+		<description>&lt;div&gt;&lt;p&gt;&lt;iframe width="583" height="328" src="http://www.youtube.com/embed/Dxd26ptn1PE?fs=1&amp;amp;feature=oembed" frameborder="0" allowfullscreen=""/&gt;&lt;/p&gt;
+&lt;p&gt;By Jimmy Widlund, who also created this PSP timelapse.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-25879"/&gt;Jimmy Widlund writes:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;This is my 3ds timelapse video that i would really like to share with you guys! It was really hard getting it working at the beginning but at the end it was really easy :)&lt;/p&gt;
+&lt;p&gt;Enjoy this video!&lt;/p&gt;&lt;/blockquote&gt;
+&lt;/div&gt;</description><feedburner:origLink>http://www.blendernation.com/2012/01/25/3ds-timelapse/</feedburner:origLink></item>
+		<item>
+		<title>Add-On: Balcon and Jamb Generator Scripts</title>
+		<link>http://feedproxy.google.com/~r/Blendernation/~3/CHJ8qUG5nuc/</link>
+		<comments>http://www.blendernation.com/2012/01/25/add-on-balcony-jamb-and-window-generator-scripts/#comments</comments>
+		<pubDate>Wed, 25 Jan 2012 06:54:30 +0000</pubDate>
+		<dc:creator>cekuhnen</dc:creator>
+				<category>Add-ons</category>
+		<category>Toolbox</category>
+
+		<guid isPermaLink="false">http://www.blendernation.com/?p=25851</guid>
+		
+		<wfw:commentRss>http://www.blendernation.com/2012/01/25/add-on-balcony-jamb-and-window-generator-scripts/feed/</wfw:commentRss>
+		<slash:comments>21</slash:comments>
+		<description>&lt;div&gt;&lt;p&gt; &lt;iframe src="http://player.vimeo.com/video/34210992" width="583" height="437" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""/&gt;&lt;/p&gt;
+&lt;p&gt;For all architects this might be an interesting tool box addition to evaluate. It offers an interface to design balconies, windows, and jambs providing you access to modify dimensions as well as design styles.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-25851"/&gt;&lt;strong&gt;Download Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://dl.dropbox.com/u/23340323/add_Balkon.py"&gt;Balcony&amp;#194;&amp;#160;Script&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://dl.dropbox.com/u/23340323/add_Sove.py"&gt;Jamp Script&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://dl.dropbox.com/u/23340323/add_Pencere.py"&gt;Window Script&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><feedburner:origLink>http://www.blendernation.com/2012/01/25/add-on-balcony-jamb-and-window-generator-scripts/</feedburner:origLink></item>
+		<item>
+		<title>Blob Study I</title>
+		<link>http://feedproxy.google.com/~r/Blendernation/~3/pls1WAKH5dk/</link>
+		<comments>http://www.blendernation.com/2012/01/24/blob-study-i/#comments</comments>
+		<pubDate>Tue, 24 Jan 2012 18:00:52 +0000</pubDate>
+		<dc:creator>Bart</dc:creator>
+				<category>Video</category>
+
+		<guid isPermaLink="false">http://www.blendernation.com/?p=25845</guid>
+		
+		<wfw:commentRss>http://www.blendernation.com/2012/01/24/blob-study-i/feed/</wfw:commentRss>
+		<slash:comments>18</slash:comments>
+		<description>&lt;div&gt;&lt;p&gt; &lt;iframe src="http://player.vimeo.com/video/33587178" width="583" height="328" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""/&gt;&lt;/p&gt;
+&lt;p&gt;By Stuffmatic. I&amp;#8217;m a sucker for this kind of abstract animation :)&lt;/p&gt;
+&lt;/div&gt;</description><feedburner:origLink>http://www.blendernation.com/2012/01/24/blob-study-i/</feedburner:origLink></item>
+		<item>
+		<title>Kate Moss is the Face of Mango</title>
+		<link>http://feedproxy.google.com/~r/Blendernation/~3/p2OYxtZfxmA/</link>
+		<comments>http://www.blendernation.com/2012/01/24/kate-moss-is-the-face-of-mango/#comments</comments>
+		<pubDate>Tue, 24 Jan 2012 14:24:23 +0000</pubDate>
+		<dc:creator>Bart</dc:creator>
+				<category>Fun</category>
+
+		<guid isPermaLink="false">http://www.blendernation.com/?p=25847</guid>
+		
+		<wfw:commentRss>http://www.blendernation.com/2012/01/24/kate-moss-is-the-face-of-mango/feed/</wfw:commentRss>
+		<slash:comments>23</slash:comments>
+		<description>&lt;div&gt;&lt;p&gt;&lt;a href="http://www.blendernation.com/2012/01/24/kate-moss-is-the-face-of-mango/kate-moss-mango/" rel="attachment wp-att-25849"&gt;&lt;img class="alignleft size-large wp-image-25849" title="kate-moss-mango" src="http://www.blendernation.com/wp-content/uploads/2012/01/kate-moss-mango-580x359.jpg" alt="" width="580" height="359"/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You have to admire Ton for &lt;a href="http://www.mirror.co.uk/celebs/news/2012/01/24/kate-moss-is-face-of-mango-and-a-bit-mango-faced-too-115875-23715339/  "&gt;pulling this off&lt;/a&gt;&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Okay, sorry, couldn&amp;#8217;t resist ;-) (/via &lt;a href="https://twitter.com/#!/aiblender/status/161803329700233217"&gt;AdventuresInBlender&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;</description><feedburner:origLink>http://www.blendernation.com/2012/01/24/kate-moss-is-the-face-of-mango/</feedburner:origLink></item>
+		<item>
+		<title>Tutorial: How to make a realistic sea using Cycles</title>
+		<link>http://feedproxy.google.com/~r/Blendernation/~3/bWXhPEzFQ-8/</link>
+		<comments>http://www.blendernation.com/2012/01/24/tutorial-how-to-make-a-realistic-sea-using-cycles/#comments</comments>
+		<pubDate>Tue, 24 Jan 2012 14:00:06 +0000</pubDate>
+		<dc:creator>cekuhnen</dc:creator>
+				<category>Videotutorials</category>
+
+		<guid isPermaLink="false">http://www.blendernation.com/?p=25817</guid>
+		
+		<wfw:commentRss>http://www.blendernation.com/2012/01/24/tutorial-how-to-make-a-realistic-sea-using-cycles/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		<description>&lt;div&gt;&lt;p&gt;&lt;iframe width="583" height="328" src="http://www.youtube.com/embed/QSb72amw-Wc?fs=1&amp;amp;feature=oembed" frameborder="0" allowfullscreen=""/&gt;&lt;/p&gt;
+&lt;p&gt;Peter Draculic posted a video tutorial on Youtube demonstrating how to generate a texture driven realistic seawater surface. He covers scene design as well as materials with Cycles and finale touch-ups with the&amp;#194;&amp;#160;compositor.&lt;/p&gt;
+&lt;/div&gt;</description><feedburner:origLink>http://www.blendernation.com/2012/01/24/tutorial-how-to-make-a-realistic-sea-using-cycles/</feedburner:origLink></item>
+		<item>
+		<title>Blender GPU Benchmark</title>
+		<link>http://feedproxy.google.com/~r/Blendernation/~3/DVO0blUX3PE/</link>
+		<comments>http://www.blendernation.com/2012/01/24/blender-gpu-benchmark/#comments</comments>
+		<pubDate>Tue, 24 Jan 2012 10:00:33 +0000</pubDate>
+		<dc:creator>Community Reporter</dc:creator>
+				<category>3D News</category>
+
+		<guid isPermaLink="false">http://www.blendernation.com/?p=25717</guid>
+		
+		<wfw:commentRss>http://www.blendernation.com/2012/01/24/blender-gpu-benchmark/feed/</wfw:commentRss>
+		<slash:comments>29</slash:comments>
+		<description>&lt;div&gt;&lt;p&gt;&lt;img class="size-large alignnone wp-image-25718" src="http://www.blendernation.com/wp-content/uploads/2012/01/monkey-580x166.png" alt="monkey" width="580" height="166"/&gt;&lt;/p&gt;
+&lt;p&gt;Help compare GPU speeds with the Blender GPU Benchmark.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-25717"/&gt;Sidy Ndiongue writes:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;I have started a blender gpu benchmark in cycles to compare the performance on different gpu&amp;#8217;s in cycles.&lt;/p&gt;
+&lt;p&gt;I have created a benchmark that compares different gpu&amp;#8217;s in cycles. The benchmark is currently Nvidia only because Opencl is not fully inplemented. Multi gpu support will be avalibe onece it becomes a full feature.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;How to use it&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="583" height="328" src="http://www.youtube.com/embed/nCwps--JLXI?fs=1&amp;amp;feature=oembed" frameborder="0" allowfullscreen=""/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://benchmark.cd3dtech.com/"&gt;Benchmark site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://benchmark.cd3dtech.com/Benchmark/benchmark.html"&gt;Benchmark Results&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><feedburner:origLink>http://www.blendernation.com/2012/01/24/blender-gpu-benchmark/</feedburner:origLink></item>
+		<item>
+		<title>Growing IvyGen Animation in Blender</title>
+		<link>http://feedproxy.google.com/~r/Blendernation/~3/tsc3dNQDVkQ/</link>
+		<comments>http://www.blendernation.com/2012/01/24/growing-ivygen-animation-in-blender/#comments</comments>
+		<pubDate>Tue, 24 Jan 2012 07:07:21 +0000</pubDate>
+		<dc:creator>Community Reporter</dc:creator>
+				<category>Video</category>
+
+		<guid isPermaLink="false">http://www.blendernation.com/2012/01/24/growing-ivygen-animation-in-blender/</guid>
+		
+		<wfw:commentRss>http://www.blendernation.com/2012/01/24/growing-ivygen-animation-in-blender/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		<description>&lt;div&gt;&lt;p&gt;&lt;iframe width="583" height="328" src="http://www.youtube.com/embed/VLUohUcUcWA?fs=1&amp;amp;feature=oembed" frameborder="0" allowfullscreen=""/&gt;&lt;/p&gt;
+&lt;p&gt;By Nikhil Dhoka.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-25834"/&gt;Nikhil writes:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Just tried the Ivygen Add-on in free time and here is what i got by using very cool modifier &amp;#8220;Build&amp;#8221; over the branch mesh.. same thing is done for leaves mesh with little offset.&lt;/p&gt;
+&lt;p&gt;Opening scene is done through REMESH modifier where i keyframed the Octree depth and scale parameter over time.&lt;/p&gt;
+&lt;p&gt;Rendering is done with Cycles and Post production through After effects.&lt;/p&gt;
+&lt;p&gt;I also made a &lt;a href="http://3dvideotutorials.blogspot.com/2010/01/making-of-ivygen-growing-animation.html"&gt;short Break down video and materials Node descriptions &lt;/a&gt;on my tutorial blog.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Break Down&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="583" height="328" src="http://www.youtube.com/embed/OHZB32iv2cc?fs=1&amp;amp;feature=oembed" frameborder="0" allowfullscreen=""/&gt;&lt;/p&gt;
+&lt;/div&gt;</description><feedburner:origLink>http://www.blendernation.com/2012/01/24/growing-ivygen-animation-in-blender/</feedburner:origLink></item>
+		<item>
+		<title>Tutorial: Fracture Add-On with Dynamic Paint System</title>
+		<link>http://feedproxy.google.com/~r/Blendernation/~3/GLq7RQZ59uw/</link>
+		<comments>http://www.blendernation.com/2012/01/24/tutorial-fracture-add-on-with-dynamic-paint-system/#comments</comments>
+		<pubDate>Tue, 24 Jan 2012 02:00:48 +0000</pubDate>
+		<dc:creator>cekuhnen</dc:creator>
+				<category>Videotutorials</category>
+
+		<guid isPermaLink="false">http://www.blendernation.com/?p=25818</guid>
+		
+		<wfw:commentRss>http://www.blendernation.com/2012/01/24/tutorial-fracture-add-on-with-dynamic-paint-system/feed/</wfw:commentRss>
+		<slash:comments>15</slash:comments>
+		<description>&lt;div&gt;&lt;p&gt; &lt;iframe src="http://player.vimeo.com/video/35413869" width="583" height="364" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""/&gt;&lt;/p&gt;
+&lt;p&gt;You all might now the fracture add-on in Blender. Ian Moore-Kilgannon just uploaded his latest video tutorial demonstrating how you can combine pre-made facture elements with the new dynamic paint system to drive the interaction between shards, objects, and control surfaces. This is pretty cool.&lt;/p&gt;
+&lt;/div&gt;</description><feedburner:origLink>http://www.blendernation.com/2012/01/24/tutorial-fracture-add-on-with-dynamic-paint-system/</feedburner:origLink></item>
+		<item>
+		<title>Redefining 3D Typography and designing 3D Type in Blender</title>
+		<link>http://feedproxy.google.com/~r/Blendernation/~3/jWJ8wHzeeLk/</link>
+		<comments>http://www.blendernation.com/2012/01/23/redefining-3d-typography-and-designing-3d-type-in-blender/#comments</comments>
+		<pubDate>Mon, 23 Jan 2012 22:00:33 +0000</pubDate>
+		<dc:creator>Bart</dc:creator>
+				<category>Tutorials</category>
+
+		<guid isPermaLink="false">http://www.blendernation.com/?p=25831</guid>
+		
+		<wfw:commentRss>http://www.blendernation.com/2012/01/23/redefining-3d-typography-and-designing-3d-type-in-blender/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		<description>&lt;div&gt;&lt;p&gt;&lt;a href="http://www.blendernation.com/2012/01/23/redefining-3d-typography-and-designing-3d-type-in-blender/distorted_005/" rel="attachment wp-att-25832"&gt;&lt;img class="alignleft size-medium wp-image-25832" title="distorted_005" src="http://www.blendernation.com/wp-content/uploads/2012/01/distorted_005-168x250.jpg" alt="" width="168" height="250"/&gt;&lt;/a&gt;Two interesting articles about typography in Blender by Blender Sushi.&lt;br/&gt;&lt;span id="more-25831"/&gt;Blender Sushi writes:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;So, what is really 3D TYPOGRAPHY? In my own words, 3D typography is an arrangement and composition of text/alphabet in 3D space that we considered aesthetically beautiful, when properly designed can give extra impact to the message.&lt;/p&gt;
+&lt;p&gt;The typeface (the type of font) that is chosen can also influence the final look of typography design. True for 2D typography, even more in 3D typography, thus we have 3D TYPE topic.&lt;/p&gt;
+&lt;p&gt;Combine both 3D TYPE and 3D TYPOGRAPHY, then you have this huge design topic to explore. This is where you think FONT as character.&lt;/p&gt;
+&lt;p&gt;What would that topic has anything to do with Blender? Blender is actually a perfect tool for conceptualizing 3D TYPE design and TYPOGRAPHY arrangement in 3D.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://blendersushi.blogspot.com/2012/01/redefining-3d-typography-using-blender.html"&gt;Redefining 3D Typography and designing 3D Type in Blender&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blendersushi.blogspot.com/2012/01/typography-distorted-3d-type.html"&gt;Distorted 3D Type&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><feedburner:origLink>http://www.blendernation.com/2012/01/23/redefining-3d-typography-and-designing-3d-type-in-blender/</feedburner:origLink></item>
+	</channel>
+</rss>
