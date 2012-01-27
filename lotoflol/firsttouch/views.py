@@ -1,4 +1,5 @@
 # Create your views here.
+import re
 from django.template import Context
 from django.template.loader import get_template
 from django.http import HttpResponse
@@ -26,4 +27,14 @@ def first_hello(request):
     res = tmp.render(variables)
     
     return HttpResponse(res)
+    #return HttpResponse('first lol words')
+
+def get_feed(request, site):
+    file = '/home/py/lotoflol/feed/<site>/rss.xml'
+    file = re.sub('<site>', site, file)
+    rssfile = open(file, 'r')
+    feed = rssfile.read()
+    rssfile.close()
+
+    return HttpResponse(feed)
     #return HttpResponse('first lol words')
