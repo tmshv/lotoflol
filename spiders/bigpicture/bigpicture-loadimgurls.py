@@ -9,8 +9,7 @@ def load_res(url):
 
 def get_post_images(page):
 	html = lxml.html.fromstring(page)
-	imgs = html.xpath('.//*[@class="content"]//p/a/img/@src')
-	return imgs
+	return html.xpath('.//div[@id="inkontent"]/div[substring-before(@id, "_")="attachment"]/img/@src')
 
 ufile = open('urls.txt', 'r')
 posts = json.loads(ufile.read())
@@ -18,8 +17,9 @@ ufile.close()
 
 imgs = []
 for x in xrange(len(posts)):
-	print 'analyze', x
-	url = posts[x]['url']
+	url = posts[x]
+	print 'analyze', x, url
+	# print url
 	page = load_res(url)
 	i = get_post_images(page)
 	imgs = imgs + i
