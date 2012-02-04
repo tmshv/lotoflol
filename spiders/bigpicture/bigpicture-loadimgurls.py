@@ -22,7 +22,10 @@ for x in xrange(len(posts)):
 	# print url
 	page = load_res(url)
 	i = get_post_images(page)
-	imgs = imgs + i
+	imgs.append({
+		'post': url
+		'imgs': i
+	})
 
 imgfile = open('imgs.txt', 'w')
 imgfile.write(json.dumps(imgs))
